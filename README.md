@@ -8,8 +8,8 @@ Do not run the code to create the passlist.txt
 The create() function will add all the passwords to the text file but:
 1. To compute something this large you might need a quantum computer or a super computer at least.
 2. The World's entire storage capacity is 295 exabyte.
-3. This will create a file of size 750 octovigintillion (750 x 10^87) Yotabytes.
-4. The file size will be 2537 quindecillion (2537 x 10^90) times more than the available storage in the world
+3. This will create a file of size 750 octovigintillion (750 x 10^87) Yotabytes. Approximately (exaggerated by a factor of maybe 2)
+4. The file size will be 2537 quindecillion (2537 x 10^90) times more than the available storage in the world. (My brain stopped at this point so I'm not sure about this calculated value.)
 5. All passwords of length 8 characters alone will be 32 Petabytes.
 
 To use such a dictionary , we can do the following:
@@ -29,11 +29,8 @@ Cons:
 
 
 Edit:
-A 30 qubit quantum computer ,doing a trillion operations per second, will take (1 trillion/summation(94Pn)) x 60 x 60 x 24 x 365 years to finish this attack.
+1. A 30 qubit quantum computer ,doing a trillion operations per second, will take (1 trillion/summation(94Pn)) x 60 x 60 x 24 x 365 years to finish this attack. (Next point has the calculated value.)
 
-Try a distributed computing network of quantum computers.
+2. Considering a quantum computer is doing a trillion calculations a second , the time will be : 2.43 x 10^-87 seconds to get all the possible passwords.
 
-This is just for passwords between 8-63 characters long.
-
-
-Imagine for AES-256 or SHA-256. That will take up a decade of all of the sun's energy to crack one password.
+3. This is just for passwords between 8-63 characters long.

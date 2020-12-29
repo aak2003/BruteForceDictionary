@@ -23,4 +23,4 @@ Pros:
 Cons:
 1. Takes an impossible amount of storage.
 2. Running this needs very high computational power, maybe that of a quantum computer. The total number of passwords generated will be:
-   Sum of permutations of 94Pn , P is permutation, n is between 8-63
+   Sum of permutations of 94Pn , P is permutation, n is between 8-63. 94 because there are 94 keyboard characters.

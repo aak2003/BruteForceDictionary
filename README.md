@@ -24,3 +24,14 @@ Cons:
 1. Takes an impossible amount of storage.
 2. Running this needs very high computational power, maybe that of a quantum computer. The total number of passwords generated will be:
    Sum of permutations of 94Pn , P is permutation, n is between 8-63. 94 because there are 94 keyboard characters.
+
+
+Edit:
+A 30 qubit quantum computer ,doing a trillion operations per second, might take 12,998,975,642,405,566,462,319,821,166,336,408,793,856,011,294,368,565,910,896,425,664,449,734,693,078,144,809,952,387,635,609 years to finish this attack.
+
+Try a distributed computing network of quantum computers.
+
+This is just for passwords between 8-63 characters long.
+
+
+Imagine for AES-256 or SHA-256. That will take up a decade of all of the sun's energy to crack one password.

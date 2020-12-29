@@ -19,6 +19,8 @@ To use such a dictionary , we can do the following:
 Pros:
 1. This program will generate all possible wifi passwords
 2. We can run this without worrying about storage if we decide to run the iterated value through the loop instead of saving it.(But still you need high computation power) 
+3. Running this at 41 in the for loop will generate all the possible instagram password as the max length for an Instagram password is 40 characters.
+4. 21 For a facebook account as Facebook's password's max length is 20 characters.
 
 Cons:
 1. Takes an impossible amount of storage.

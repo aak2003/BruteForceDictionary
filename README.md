@@ -29,7 +29,7 @@ Cons:
 
 
 Edit:
-A 30 qubit quantum computer ,doing a trillion operations per second, will take (1 trillion/summation(94Pn))*60*60*24*365 years to finish this attack.
+A 30 qubit quantum computer ,doing a trillion operations per second, will take (1 trillion/summation(94Pn)) x 60 x 60 x 24 x 365 years to finish this attack.
 
 Try a distributed computing network of quantum computers.
 

@@ -29,8 +29,6 @@ Cons:
 
 
 Edit:
-1. A super computer ,doing a trillion operations per second, will take (1 trillion/summation(94Pn)) x 60 x 60 x 24 x 365 years to finish this attack. (Next point has the calculated value.)
+1. A super computer ,doing a trillion operations per second, will take (summation(94Pn)/1trillion) x 60 x 60 x 24 x 365 years to finish this attack. 
 
-2. Considering a super computer is doing a trillion calculations a second , the time will be : 2.43 x 10^-87 seconds to get all the possible passwords.
-
-3. This is just for passwords between 8-63 characters long.
+2. This is just for passwords between 8-63 characters long.
